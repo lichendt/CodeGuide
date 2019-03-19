@@ -10,4 +10,4 @@
 - [css & scss/sass](/style-doc)
 - [Java开发手册](/Java)
 ---
-- [Check List](/Check-List)
+- [Check List](/check-list)
