@@ -1,2 +1,0 @@
-# CodeGuide
-CodeGuide

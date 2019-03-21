@@ -8,6 +8,7 @@
 - [js](/js-doc)
 - [react](/react-doc)
 - [css & scss/sass](/style-doc)
+- [开源工具推荐](/npm)
 - [Java开发手册](/Java)
 ---
 - [Check List](/check-list)
