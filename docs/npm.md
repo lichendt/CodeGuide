@@ -17,3 +17,4 @@
 - axios 可promise 可拦截 可转换，可取消，自动转换json 防止csrf。的替代ajax请求方案
 - keymaster web快捷键
 - PurifyCSS-webpack css筛选(去掉没有引用的class什么的)
+- qs 查询字符串解析和序列化字符串的库 （主要用于URL解析）
