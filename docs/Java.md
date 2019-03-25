@@ -760,9 +760,9 @@ public ResultData closeTrade(String sessionId, String tradeNo) {
    resultData.setSuccess(true);
    trade.setStatus(TradeEnum.TRADE_CLOSED.getValue());
    /*
-    获取时间
-    ...
-   */
+    * 获取时间
+    * ...
+    */
    trade.setModified(new Date());
    save(trade);
 
