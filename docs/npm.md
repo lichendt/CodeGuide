@@ -18,3 +18,4 @@
 - keymaster web快捷键
 - PurifyCSS-webpack css筛选(去掉没有引用的class什么的)
 - qs 查询字符串解析和序列化字符串的库 （主要用于URL解析）
+- **yeoman** 很方便的，特别是开发个官网什么的，神器
